@@ -1,4 +1,4 @@
-<h2>Oi! Me chamo Erick</h2>
+### Oi! Me chamo Erick
 
 <div align="center">
   <a href="https://github.com/ErickGLopes">
