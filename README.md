@@ -1,4 +1,4 @@
-### Oi! Me chamo Erick Lopes
+<h2>Oi! Me chamo Erick</h2>
 
 <div align="center">
   <a href="https://github.com/ErickGLopes">
