@@ -1,4 +1,4 @@
-### Oi! Me chamo Erick
+### Oi! Bem vindo ao meu portfólio
 
 <div align="center">
   <a href="https://github.com/ErickGLopes">
