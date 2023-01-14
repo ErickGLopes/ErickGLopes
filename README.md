@@ -1,4 +1,4 @@
-### Oi! Meu nome é Erick e aqui vc pode ver um pouco do que eu fiz 👨‍💻
+### Olá! Meu nome é Erick e aqui vc pode ver um pouco do que eu fiz 👨‍💻
 
 <div align="center">
   <a href="https://github.com/ErickGLopes">
