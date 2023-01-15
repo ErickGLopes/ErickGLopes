@@ -23,11 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: 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
-  
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
