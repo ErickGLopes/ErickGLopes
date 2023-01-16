@@ -16,11 +16,11 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=dark)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=dark)
 
 <br>
 
