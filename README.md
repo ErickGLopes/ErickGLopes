@@ -2,24 +2,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickGLopes&color=yellow" alt="Profile views" /> </p>
 <div align="center">
   <a href="https://github.com/ErickGLopes">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ErickGLopes&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGLopes&layout=compact&langs_count=7&theme=dark&count_private=true"/>
-</div>
-
-</div>
-<br><br>
-<div> 
-  <a href="mailto:erickgabri210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erickglopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<br><br>
+  <p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ErickGLopes&show_icons=true&theme=vision-friendly-dark" alt="erick's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGLopes&layout=compact&theme=vision-friendly-dark" alt="erick's most languages"/>
+</p>
+  </div>
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
 ##
 
@@ -51,3 +45,14 @@ Até o momento, o [Curso em Vídeo](https://youtube.com/c/CursoemV%C3%ADdeo) foi
 
 <br><br>
 
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/erickglopes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-erickglopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="mailto:erickgabri369@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+
+</p>
