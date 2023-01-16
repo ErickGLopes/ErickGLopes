@@ -18,6 +18,8 @@
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
 ##
 
@@ -46,3 +48,6 @@ Até o momento, o [Curso em Vídeo](https://youtube.com/c/CursoemV%C3%ADdeo) foi
   - Total de 40 horas
   - É um curso patrocinado pelo Google e é dividido em módulos de A até F. Assim como nos outros cursos, ele traz todo o conteúdo da forma mais descontraída e didática possível. Abordou condições, repetições, funções, variáveis compostas e DOM.
   - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/JavaScript)
+
+<br><br>
+
