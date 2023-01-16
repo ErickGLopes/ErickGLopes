@@ -1,5 +1,10 @@
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, veja um pouco do que fiz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickGLopes&color=yellow" alt="Profile views" /> </p>
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
 <div align="center">
   <a href="https://github.com/ErickGLopes">
   <p align="left">
@@ -8,12 +13,16 @@
 </p>
   </div>
 
+<br>
+
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
+<br>
 
 ## Contact
 
