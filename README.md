@@ -24,7 +24,7 @@
 
 <br>
 
-## Contact
+##  📞 &nbsp;Contact
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/erickglopes" target="_blank">
