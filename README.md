@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ErickGLopes">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=erickglopes&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickglopes&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ErickGLopes&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGLopes&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </div>
 <h3>Algumas Skills que gosto de aprender<h3/>
 <div style="display: inline_block">
