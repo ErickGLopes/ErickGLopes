@@ -1,4 +1,4 @@
-<h1 align="left">Olá!, veja um pouco do que fiz <img src="https://github.com/ErickGLopes/media/blob/main/thumbs-up-joypixels.gif"height="30px"></h1>
+<h1 align="left">Olá! Veja um pouco do que fiz <img src="https://github.com/ErickGLopes/media/blob/main/thumbs-up-joypixels.gif"height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickGLopes&color=yellow" alt="Profile views" /> </p>
 
 <br>
